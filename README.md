@@ -1,2 +1,2 @@
 # calculator_python
-Simple and usual calculator
+Hello everyone, this is my project of a simple and usual calculator.
